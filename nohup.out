@@ -1,0 +1,78 @@
+Opening in existing browser session.
+Opening in existing browser session.
+[2667:2816:0513/224522.583587:ERROR:dat_file_util.cc(23)] GetDATFileData: the dat file is not found or corrupted /home/beraa/.config/BraveSoftware/Brave-Browser/afalakplffnnnlkncjhbmahjfjhmlkal/1.0.329/1/ExtensionWhitelist.dat
+[2667:2667:0513/224522.585314:ERROR:extension_whitelist_service.cc(73)] Could not obtain extension whitelist data
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+[2819:2851:0514/021553.617238:ERROR:connection.cc(46)] X connection error received.
+[2819:2819:0514/021553.621531:ERROR:connection.cc(46)] X connection error received.
+[2663:2811:0514/103833.364464:ERROR:dat_file_util.cc(23)] GetDATFileData: the dat file is not found or corrupted /home/beraa/.config/BraveSoftware/Brave-Browser/afalakplffnnnlkncjhbmahjfjhmlkal/1.0.329/1/ExtensionWhitelist.dat
+[2663:2663:0514/103833.364549:ERROR:extension_whitelist_service.cc(73)] Could not obtain extension whitelist data
+Fontconfig error: Cannot load default config file: No such file: (null)
+[2663:2663:0514/104151.672068:ERROR:interface_endpoint_client.cc(690)] Message 0 rejected by interface blink.mojom.WidgetHost
+[2815:2815:0514/152013.226807:ERROR:shared_image_manager.cc(189)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+Fontconfig error: Cannot load default config file: No such file: (null)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[2815:2858:0514/162616.214380:ERROR:connection.cc(46)] X connection error received.
+[2815:2815:0514/162616.214353:ERROR:connection.cc(46)] X connection error received.
+[2815:2815:0514/162616.247102:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[2815:2815:0514/162616.252274:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[28612:28612:0518/171312.661650:ERROR:chrome_browser_cloud_management_controller.cc(162)] Cloud management controller initialization aborted as CBCM is not enabled.
+Warning: disabling flag --expose_wasm due to conflicting flags
+[5011:5011:0518/230939.530834:ERROR:chrome_browser_cloud_management_controller.cc(162)] Cloud management controller initialization aborted as CBCM is not enabled.
+[5302:5302:0518/232447.385161:ERROR:shared_image_manager.cc(217)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[5302:5302:0518/232447.385971:ERROR:shared_image_manager.cc(217)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+Fontconfig error: Cannot load default config file: No such file: (null)
+[5302:5302:0519/000514.048900:ERROR:shared_image_manager.cc(217)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[5302:5302:0519/000514.049791:ERROR:shared_image_manager.cc(217)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+Fontconfig error: Cannot load default config file: No such file: (null)
+[5011:5011:0519/002725.782837:ERROR:interface_endpoint_client.cc(696)] Message 1 rejected by interface blink.mojom.WidgetHost
+[5011:5011:0519/002729.266443:ERROR:CONSOLE(14)] "Failed to handle media duration metadata: missing publisher key for media key youtube_VMPzs4JKmKw", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (14)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+[5302:5302:0519/042443.084478:ERROR:connection.cc(46)] X connection error received.
+[5302:5439:0519/042443.084406:ERROR:connection.cc(46)] X connection error received.
+[44758:44758:0519/220543.934909:ERROR:chrome_browser_cloud_management_controller.cc(162)] Cloud management controller initialization aborted as CBCM is not enabled.
+[44758:44758:0519/225226.138866:ERROR:zygote_communication_linux.cc(291)] Failed to send GetTerminationStatus message to zygote
+[44758:44758:0519/225226.140735:ERROR:zygote_communication_linux.cc(291)] Failed to send GetTerminationStatus message to zygote
+[53555:53555:0519/230520.665032:ERROR:chrome_browser_cloud_management_controller.cc(162)] Cloud management controller initialization aborted as CBCM is not enabled.
+[53615:53615:0519/231003.357745:ERROR:shared_image_manager.cc(217)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[53615:53615:0519/231003.358942:ERROR:shared_image_manager.cc(217)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+Fontconfig error: Cannot load default config file: No such file: (null)
+[53555:53555:0520/032321.794828:ERROR:zygote_communication_linux.cc(291)] Failed to send GetTerminationStatus message to zygote
+[53555:53555:0520/032321.797675:ERROR:zygote_communication_linux.cc(291)] Failed to send GetTerminationStatus message to zygote
+[4207:4207:0520/114049.643635:ERROR:chrome_browser_cloud_management_controller.cc(162)] Cloud management controller initialization aborted as CBCM is not enabled.
+[4207:4207:0520/130933.648425:ERROR:interface_endpoint_client.cc(696)] Message 0 rejected by interface blink.mojom.WidgetHost
+[4207:4207:0520/142255.009284:ERROR:zygote_communication_linux.cc(291)] Failed to send GetTerminationStatus message to zygote
+[4207:4207:0520/142255.016829:ERROR:zygote_communication_linux.cc(291)] Failed to send GetTerminationStatus message to zygote
+[4207:4207:0520/142255.019133:ERROR:zygote_communication_linux.cc(291)] Failed to send GetTerminationStatus message to zygote
+[4207:4207:0520/142255.021822:ERROR:zygote_communication_linux.cc(291)] Failed to send GetTerminationStatus message to zygote
+[52877:52877:0520/183213.692480:ERROR:chrome_browser_cloud_management_controller.cc(162)] Cloud management controller initialization aborted as CBCM is not enabled.
+Fontconfig error: Cannot load default config file: No such file: (null)
+[52877:52877:0520/194712.601064:ERROR:interface_endpoint_client.cc(696)] Message 1 rejected by interface blink.mojom.WidgetHost
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Opening in existing browser session.
+Opening in existing browser session.
