@@ -15,3 +15,4 @@ class warehouse extends Model
 }
 
 // quantity
+
