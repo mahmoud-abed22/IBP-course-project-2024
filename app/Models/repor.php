@@ -17,3 +17,4 @@ class repor extends Model
     ];
     
 }
+
