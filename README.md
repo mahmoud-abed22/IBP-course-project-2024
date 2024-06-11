@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,4 +65,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<<<<<<< HEAD
 # maaaa
+=======
+=======
+# IBP-course-project-2024
+Bootstrap and responsive compatible (should work on desktop, tablet &amp; mobile. develop project using Bootstrap, Php Framework Laravel and MySql database.
+>>>>>>> 9f1e206bd5e1c2f52d821ca197d2775d7e316d0a
+>>>>>>> b1826f2870621fcdb47746ab889d52a5b97bf12b
