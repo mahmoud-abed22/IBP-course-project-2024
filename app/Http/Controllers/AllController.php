@@ -45,7 +45,7 @@ class AllController extends Controller
 
     public function deleteUser($id){
         User::destroy($id); 
-        return redirect()->back() ;
+        return redirect()->route('welcome') ;
     }
 
     // get a Date

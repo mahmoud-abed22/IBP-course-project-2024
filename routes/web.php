@@ -56,6 +56,9 @@ Route::middleware('auth')->group(function () {
     Route::post('/newmessage/{id}',  [AllController::class, 'newmessage'])->name('newmessage');
 
     Route::post('/add_place',  [AllController::class, 'add_place'])->name('add_place');
+
+    Route::get('/deleteUser/{id}',  [AllController::class, 'deleteUser'])->name('user_delete');
+
     
     
         // for doctor
@@ -86,6 +89,8 @@ Route::middleware('auth')->group(function () {
 
     Route::get('/user_messages',  [UserController::class, 'messages'])->name('user_messages');
     Route::get('/user_message/{id}',  [UserController::class, 'message'])->name('user_message');
+
+
         
 
 

@@ -35,9 +35,13 @@
     <div class="col"> {{Auth::User()->email}} </div>
 </div>
 
-<div class="row w-100" style="padding-bottom:100px;padding-top :30px; ">
+<div class="row w-100" style="padding-bottom:10px;padding-top :30px; ">
   <a href="{{route('changepw')}}" class="btn btn-primary " style=" color:#fff;padding:10px;width:250px;text-align: center ;font-size: 14px">Change Password </a>
 
+</div>
+
+<div class="row w-100" style="padding-bottom:100px; ">
+  <a href="{{route('user_delete' , Auth::User()->id )}}" class="btn btn-danger " style=" color:#fff;padding:10px;width:250px;text-align: center ;font-size: 14px">Delete Account </a>
 </div>
 
   @stop
