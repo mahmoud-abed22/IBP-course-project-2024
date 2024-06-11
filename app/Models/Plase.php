@@ -20,3 +20,4 @@ class Plase extends Model
     ];
 
 }
+
