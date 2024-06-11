@@ -95,6 +95,7 @@ class PlaceSeeder extends Seeder
             'email' =>'beraaceze@gmail.com' ,
             'password' => Hash::make('beraaceze'),
         ]);
+        
 
     }
 }
